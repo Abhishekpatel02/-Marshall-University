@@ -1,0 +1,1902 @@
+@media only screen and (max-width:  1920px) {
+ 
+   .contact_us::after {
+    width: 377px;
+    right: -107px;
+    }
+    .contact_details {
+    width: 87%;
+    }
+    .media_icons {
+    width: 11%;
+    }
+    .learnGrow_Content::before {
+    width: 40%;
+    right: 0px;
+    }
+    .faq_content_left p:first-child::after{
+    right: 260px;
+    }
+
+    .categories {
+    padding: 0px 0px;
+    }
+    .courses {
+    padding: 50px 0px;
+    }
+    .faq_section {
+    padding: 0px 0px;
+    }
+    
+} 
+@media only screen and (max-width:  1715px) {
+    .contact_details {
+    width: 85%;
+    }
+    .media_icons {
+    width: 12%;
+    }
+}
+/*1560*/
+@media only screen and (max-width:  1559px) {
+   .contact_details {
+    width: 87%;
+    }
+    .media_icons {
+    width: 13%;
+    }
+    .slick-prev{
+    left: -40px;
+    }
+    .slick-next {
+    right: -40px;
+    }
+    .scroll_card {
+    width: 287px;
+    }
+    .faq_content_left p:first-child::after {
+    right: 235px;
+    }
+    .demo_section::before {
+    left: 0;
+    }
+    .contact_us::after {
+    width: 50%;
+    right: -50px;
+    }
+}/*1440*/
+@media only screen and (max-width:  1439px) {
+    .contact_details {
+    width: 86%;
+    }
+    .media_icons {
+    width: 14%;
+    }
+    .contact_us::after {
+    width: 40%;
+    right: 0px;
+    }
+    .scroll_card {
+    width: 270px;
+    }
+    .categories_scroller {
+    padding: 50px 50px;
+    }
+    .slick-prev{
+    left: -15px;
+    }
+    .slick-next {
+    right: -15px;
+    }
+   .flip-card {
+        margin-left: 27px;
+    }
+}
+/*1366*/
+@media only screen and (max-width:  1365px) {
+    .center-wrapper {
+        width: 96%;
+    }
+    .contact_details {
+    width: 86%;
+    }
+    .media_icons {
+    width: 14%;
+    }
+    .slick-prev {
+    left: -20px;
+    }
+    .slick-next {
+    right: -20px;
+    }
+    .faq_content_left p:first-child::after {
+    right: 215px;
+    }
+    .courses_content p:first-child::after {
+    left: 60px;
+    }
+    .demo_form_content {
+    width: 45%;
+    margin-left: 25px;
+    }
+    .contactus_details {
+    width: 90%;
+    }
+    .flip-card {
+    width: 293px;
+    }
+    .fame_card {
+    min-width: 283px;
+    }
+
+}
+
+/*1320*/
+@media only  screen and (max-width: 1319px){
+   .contact_details {
+    width: 85%;
+    }
+    .media_icons {
+    width: 15%;
+    }
+    .banner_section::after {
+    left: 0px;
+    }
+    .counter_content {
+    margin-left: 125px;
+    }
+    .flip-card {
+    width: 274px;
+    }
+   /*flipcards*/
+   .flip-card-inner {
+    width: 275px;
+    }
+    .courses_card .course_price {
+    bottom: 170px;
+    }
+    .about_coursecard h5::after, .coursecard3 h5::after {
+    width: 240px;
+    }
+    .about_coursecard .course_rating {
+    margin-left: 85px;
+    }
+    .about_coursecard h5, .coursecard3 h5 {
+    min-height: 110px;
+    }
+    .coursecard3 a {
+    padding: 10px 96px;
+    }
+    .coursecard3 .course_price, .coursecard3 .course_lesson {
+    padding: 0px 0px 0px 0px;
+    }
+    .coursecard3 .course_lesson {
+    margin-left: 90px;
+    }
+    .coursecard3 .description {
+    padding: 2px 15px;
+    }
+    .coursecard3 .students {
+    padding: 20px 45px;
+    }
+    .flip-card {
+    width: 284px;
+    margin-left: 13px;
+    }
+   /*flip  cards*/
+    .fame_scroller .slick-prev, .fame_scroller .slick-next {
+    top: 40%;
+    }
+    .fame_card {
+    min-width: 274px;
+    }
+    .faq_image_container p {
+    max-width: 600px;
+    }
+
+    .footer_about_us {
+    width: 39%;
+    }
+    .subscribe_email:first-child input {
+    max-width: 211px;
+    }
+}
+/*1280*/
+@media only screen and (max-width: 1279px){
+    .contact_details {
+    width: 84%;
+    }
+    .media_icons {
+    width: 16%;
+    }
+    .courses_content p:first-child::after {
+        left: 90px;
+    }
+    .scroll_card {
+    width: 255px;
+    }
+    .flip-card {
+    width: 275px;
+    margin-left: 13px;
+    }
+    .fame_heading h4::before {
+    left: 180px;
+    }
+     .fame_scroller .slick-prev, .fame_scroller .slick-next {
+    top: 40%;
+    }
+    .fame_card {
+    min-width: 254px;
+    }
+    .faq_content_left p:first-child::after {
+        right: 165px;
+    }
+    .faq h5::after{
+        right: 10px;
+    }
+    .learnGrowImage::before {
+    content: " ";
+    width: 81%;
+    }
+    .fame_section {
+    padding: 0px 0px;
+    }
+    .subscribe_email:first-child input {
+    max-width: 192px;
+    }
+  } 
+/*1200*/
+@media only screen and (max-width: 1199px){
+   .contact_details {
+    width: 81%;
+    }
+    .media_icons {
+    width: 19%;
+    }
+    .main_logo {
+    width: 15%;
+    }
+    .contact_btn {
+    padding: 15px 0px;
+    }
+    .banner_content {
+    padding-left: 20px;
+    }
+    .banner_content_left h1 {
+    font-size: 44px;
+    line-height: 56px;
+    }
+    .banner_content_left p:first-child::after{
+    right: 130px;
+    }
+    .banner_content_left::after {
+    width: 210px;
+    height: 210px;
+    top: 30px;
+    left: -80px;
+    }
+    .banner_section::after {
+    height: 15%;
+    }
+    .banner_counter {
+    margin-left: 5px;
+    padding: 20px 20px;
+    }
+    .counter_content:first-child::before, .counter_content:last-child::before {
+    width: 50%;
+    }
+    .counter_content {
+    margin-left: 95px;
+    }
+    .learnGrow_img {
+    width: 40%;
+    }
+    .learnGrowImage::before {
+    width: 100%;
+    }
+    .learnGrowImage_counter {
+    left: -14px;
+    }
+    .learnGrowImage_subimg {
+    bottom: -15px;
+    right: -15px;
+    }
+    .scroll_card {
+    width: 215px;
+    }   
+    .scrollcard_heading h3 {
+    font-size: 18px;
+    line-height: 28px;
+    }
+    .scrollcard_img::before {
+    left: 75px;
+    }
+    .testimonial_content {
+    width: 45%;
+    margin-right: 20px;
+    }
+    .testimonial_cards {
+    max-width: 280px;  
+    }
+    .testimonial_slider .slick-slide {
+    padding: 20px;
+    }
+    .testimonial_cards p {
+    min-height: 330px;
+    }
+    .flip-card, .flip-card-inner {
+    width: 232px;
+    }
+    .courses_card .course_price {
+    bottom: 211px;
+    font-size: 18px;
+    line-height: 28px;
+    }
+    .about_coursecard h5, .coursecard3 h5 {
+    min-height: 150px;
+    }   
+    .about_coursecard h5::after, .coursecard3 h5::after {
+    width: 200px;
+    bottom: 20px;
+    }
+    .about_coursecard .course_rating {
+    margin-left: 45px;
+    }
+    .about_coursecard h5, .coursecard3 h5 {
+    font-size: 16px;
+    line-height: 26px;
+    }
+    .coursecard3 .course_lesson {
+    margin-left: 45px;
+    }
+    .coursecard3 a {
+    padding: 10px 75px;
+    }
+    .coursecard3 h5 {
+    padding: 45px 20px 30px 20px;
+    }
+    .fame_heading h4::before {
+        left: 60px;
+        width: 30%;
+    }
+    .fame_card {
+    min-width: 212px;
+    padding: 30px 10px;
+    }
+    .faq_content_left p:first-child::after {
+    right: 85px;
+    }
+    .faq_content_left h4, .contact_us h4 {
+    font-size: 30px;
+    }
+    .faq_image_container p {
+    max-width: 433px;
+    font-size: 18px;
+    line-height: 28px;
+    padding: 30px 50px;
+    margin: -144px 0px 0px 10px;
+    }
+    .footer_logo {
+    width: 530px;
+    margin: 0 255px;
+    margin-top: -80px;
+    }
+    .footer_subscribe_card h4 {
+    font-size: 16px;
+    }
+    .subscribe_email:first-child input {
+    max-width: 152px;
+    }
+}   
+/*1024*/
+@media only screen and (max-width: 1023px){
+    .footer_logo {
+    width: 475px;
+    margin: 0 237px;
+    margin-top: -80px;
+    }
+    .contact_details {
+    width: 81%;
+    }
+    .media_icons {
+    width: 19%;
+    }
+    .banner_content_left p:first-child::after {
+    right: 110px;
+    }
+    .banner_content_left h1 {
+    font-size: 38px;
+    line-height: 50px;
+    }
+    .banner_content_left::after {
+    top: 0;        
+    }
+    .counter_content h3, .learnGrowImage_counter h3 {
+    font-size: 22px;
+    line-height: 34px;
+    }
+    .banner_counter {
+    padding: 20px 20px
+    }
+    .counter_content {
+        margin-left: 94px;
+    }
+    .counter_content span, .learnGrowImage_counter span {
+    font-size: 32px;
+    }
+    .counter_content:last-child span {
+    font-size: 24px;
+    top: 2px;
+    }
+    .learnGrowImage_counter span {
+    font-size: 24px;
+    }
+    .scroll_card {
+     width: 300px; 
+    }
+    .scrollcard_img::before {
+    left: 115px;
+    }
+    .scrollcard_heading h3 {
+    font-size: 22px;
+    line-height: 32px;
+    }
+    .courses_card_container {
+    text-align: left;
+    }
+   .flip-card {
+    width: 294px;
+    }
+    .flip-card-inner {
+    width: 304px;
+    }
+    .courses_card .course_price {
+    bottom: 141px;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 600;
+    padding: 12px 25px;
+    }
+    .about_coursecard h5, .coursecard3 h5 {
+    font-size: 17px;
+    line-height: 29px;
+    font-weight: 600;
+    min-height: 90px;
+    }
+    .about_coursecard .course_rating {
+    margin-left: 115px;
+    }
+    .about_coursecard h5::after, .coursecard3 h5::after {
+     width: 270px; 
+    }
+    .courses_content p:first-child::after {
+    left: 100px;
+    }
+    .coursecard3 h5 {
+    padding: 62px 20px 30px 20px;
+    }
+    .about_coursecard h5, .coursecard3 h5 {
+    font-size: 17px;
+    line-height: 29px;
+    font-weight: 600;
+    min-height: 90px;
+    }
+    .coursecard3 .course_lesson {
+    margin-left: 75px;
+    }
+    .coursecard3 .description {
+    font-size: 14px;
+    padding: 15px 15px;
+    text-align: left;
+    }
+    .coursecard3 .students {
+    padding: 20px 45px;
+    }
+    .coursecard3 a {
+    padding: 10px 111px;
+    }
+    .flip-card{
+        margin: 50px 0px 0px 20px;
+    }
+    .flip-card:first-child,  .flip-card:nth-child(4){
+        margin-left: 0;
+    }
+    .fame_scroller .slick-prev, .fame_scroller .slick-next {
+    top: 40%;
+    }
+    .fame_card_img {
+    text-align: center;
+    margin: 0 auto;
+    width: 71%;
+    }
+    .faq_image_container img {
+    width: 100%;
+    }
+    .fame_card {
+    min-width: 292px;
+    }
+    .fame_heading h4::before {
+    width: 30%;
+    left: 60px;
+    }
+    .faq_content_left p:first-child::after {
+    right: 65px;
+    }
+    .fame_slider_container {
+    padding: 50px 40px;
+    }
+      .fame_card {
+    min-width: 253px;
+    }
+    .coursecard3 .course_rating::before {
+    right: -16px;
+    }
+    .learnGrowImage_subimg {
+    bottom: -25px;
+    right: -35px;
+    }
+    .dream_section {
+    padding: 150px 0px;
+    }
+    .footer_about_us {
+    width: 32%;
+    }
+    .footer_about_us p {
+    max-width: 268px;
+    }
+    .footer_contact {
+    width: 22%;
+    }
+    .footer_subscribe {
+    width: 28%;
+    }
+    #menu {
+    display:none;
+    }   
+    .main_logo {
+    width: 80%;
+    }
+    .main_logo a{
+        width: 130px;
+    }
+    .nav_items {
+    width: 14%;
+    float: left;
+    }
+    .contact_btn a{
+    font-size: 16px;
+    line-height: 26px;
+    padding: 5px 20px;
+    position: relative;
+    z-index: 3;
+    }   
+    span.slicknav_menutxt {
+    color: #000;
+    font-size: 0px;
+    /*position: absolute;*/
+    /*background: url(../images/menuicon.png) no-repeat center;*/
+   /* width: 50px;
+    height: 30px;*/
+    /*display: inline-block;*/
+    /*top: 0px;*/
+    /*right: -15px;*/
+    }
+    .slicknav_icon-bar{
+    border-bottom: 2px solid black;
+    margin-bottom: 5px;
+    width: 20px;
+    display: block;
+    }
+    .slicknav_menu.active .slicknav_icon-bar:first-child{
+        transform: rotate(45deg) translate(4px, 4px);
+    }
+    .slicknav_menu.active .slicknav_icon-bar:nth-child(2){
+        display: none;
+    }
+    .slicknav_menu.active .slicknav_icon-bar:last-child{
+        transform: rotate(130deg);
+    }
+    .slicknav_menu {
+    position: absolute; 
+    display: block;
+    right: 25px;
+    width: 180px;
+    /* background-color: transparent; */
+    z-index: 2; 
+    top: 0px;
+    height: 0px;
+    }   
+     .slicknav_nav a {
+    background-color: #10ADA9;
+    padding: 5px 10px;
+    margin: 0px 20px 0px 0px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+    width: 79%;
+    text-align: left;
+    }
+    .submenu_list {
+    padding: 0px 20px !important;
+    }
+    .slicknav_nav li:nth-child(4) a a {
+    margin: 0px 0px;
+    }
+     a.slicknav_item.slicknav_row {
+    position: relative;
+    }
+ 
+    .slicknav_nav a a {
+    padding: 0px 0px;
+    margin: 2px 0px;
+    }
+    ul.slicknav_nav {
+     margin-top: 27px;
+    }
+    ul .submenu li a{
+    color: #fff;
+    background-color: #000;
+    padding: 10px 10px;
+    }
+     .submenu{
+    background-color: transparent;
+    position: unset;
+    display: none;
+    width: 100%;
+    z-index: 1;
+    display: none;
+    width: 10%;
+    z-index: 1;
+    margin-top: 0px;
+    width: 100%;
+    }
+    .submenu li{
+        position: relative;
+        width: 208px;
+    }
+   .submenu li:nth-child(1)::after, .submenu li:nth-child(2)::after, .submenu li:nth-child(3)::after {
+    content: "";
+    position: absolute;
+    width: 110px;
+    height: 1px;
+    border-bottom: 1px solid #808080;
+    left: 30px;
+    top: 40px;
+    }
+
+    .submenu li:nth-child(2)::after {
+        top: 40px;
+    }
+    .submenu li:nth-child(3)::after {
+        top: 40px;
+    }
+    .main_header {
+    padding: 0px 0px 0px 0px;
+    }
+    
+}
+/*980*/
+@media only screen and (max-width:979px){
+      .banner_content_left p:first-child, .learnGrow_Content p:first-child, .categories_content p, .testimonial_content p:first-child, .courses_content p:first-child, .faq_content_left p:first-child, .contact_us p:first-child {
+      width: 100%;
+      text-align: center;
+      }
+      .learnGrow_Content p:first-child::after,.testimonial_content p:first-child::after, .courses_content p:first-child::after, .contact_us p:first-child::after{
+      left: 450px;
+      }
+      .submenu li {
+      width: 208px;
+      }
+      .submenu li:nth-child(1)::after, .submenu li:nth-child(2)::after, .submenu li:nth-child(3)::after {
+      width:120px;
+      }
+      span.slicknav_menutxt {
+      top: 0px;
+      }
+      ul.slicknav_nav {
+      margin-top: 30px;
+      }   
+      .email_id::before {
+      height: 80%;
+      left: -35px;
+      top: 0px;
+      }
+      .footer_logo {
+      width: 360px;
+      margin: 0 210px
+      } 
+      .contact_details {
+      width: 69%;
+      padding: 10px 0px;
+      }
+      .media_icons {
+      width: 25%;
+      }
+      .main_logo {
+      width: 75%;
+      }
+      .contact_number::before {
+      height: 80%;
+      left: -30px;
+      top: 0px;
+      }
+
+      .nav_items {
+      width: 17%;
+      }
+      .contact_details h5, .contact_details .contact_number{
+      padding: 0px;
+      }
+       .contact_details .email_id{
+       padding: 0px;
+      } 
+      .contact_details h5, .contact_number a, .email_id a {
+      font-size: 14px;
+      }
+      .navlinks ul li {
+      padding: 25px 10px 40px 10px;
+       }
+       .navlinks ul li a {
+      font-size: 16px;
+      }
+       .main_logo {
+      padding: 5px 0px;
+      }
+      .contact_btn a{
+      font-size: 16px;
+      line-height: 26px;
+      padding: 5px 15px;  
+    }    
+    .banner_content_left p:first-child::after {
+    right:130px;
+    }
+    .banner_img img {
+    position: relative;
+    display: none;
+    }
+    .banner_counter {
+    bottom: -60px;
+    margin-left: -245px;
+    }
+    .banner_section::after {
+    width: 10%;
+     bottom: unset; 
+    left: 20px;
+    bottom: 0px;
+    }
+    .learnGrow_img {
+    width: 65%;
+    float: unset;
+    text-align: center;
+    margin: 0 auto;
+    }
+   .learnGrowImage::before {
+    width: 97%;
+    }
+    .learnGrow_Content {
+    width: 100%;
+    padding-top: 50px;
+    } 
+    .slick-next {
+    right: 0px;
+    }
+    .slick-prev{
+    left: 0px;
+    }
+    .courses_heading {
+    padding: 30px 0px;
+    float: unset;
+    text-align: center;
+    }
+    .category_option {
+    float: unset;
+    text-align: center;
+    }
+    .testimonial_content {
+    width: 100%;
+    padding: 0px 0px 50px  0px;
+    }  
+    .courses_card_container {
+    text-align: center;
+    }  
+    .courses_card_container {
+    text-align: left;
+    padding: 0px 60px;
+    }
+    .flip-card {
+    margin: 50px 0px 0px 25px;
+    }
+    .flip-card:first-child, .flip-card:nth-child(3) {
+    margin-left: 0px;
+    }
+    .flip-card:nth-child(4) {
+        margin-left: 25px;
+    }
+    .fame_heading h4::before {
+    left: -15px;
+    }
+    .faq_content_left h4, .contact_us h4 {
+    width: 100%;
+    text-align: center;
+    }
+    .panel p{
+    text-align: left!important;
+    }
+    .faq_content {
+    float: unset;
+    width: 100%;
+    text-align: left;
+    padding: 0px 0px 150px 0px; 
+    }
+    .faq_content_left {
+    max-width:740px;
+    margin: 0 auto;
+     margin-left: auto; 
+    text-align: left;
+    }
+    .faq_image {
+    width: 100%;
+    float: unset;
+    text-align: center; 
+    }
+    .faq_image_container img {
+    display: none;
+    }
+    .faq_image_container {
+    max-width: 650px;
+    margin: 0 auto;
+    }
+   .faq_image_container p {
+    max-width: 650px;
+    margin: -125px 0px 0px 0px;
+    }
+    #demoForm {
+    padding: 0px 0px;
+    }
+    .demo_form_content {
+    width: 100%;
+     margin-left: 0px; 
+    }
+    .contact_us {
+    width: 100%;
+    margin: 0 auto;
+     padding: 0px 0px 110px 0px;
+    position: relative;
+    }
+    .demo_form_heading h4 {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px;
+    }
+    .dream_content p {
+    font-size: 28px;
+    line-height: 38px;
+    }
+    .footer_logo {
+    width: 340px;
+    margin: 0 215px;
+    margin-top: -80px;
+    }
+    .footer_about_us {
+        width: 49%;
+    }
+    .footer_about_us p {
+    max-width: 266px;
+    }
+    .footer_explore {
+    width: 25%;
+    }
+    .footer_contact {
+    width: 24%;
+    }
+    .footer_subscribe {
+    width: 100%;
+    padding: 50px 0px 0px 0px;
+    }
+    .footer_subscribe_card {
+    max-width: 700px;
+    margin: 0 auto;
+    }
+    .learnGrowImage_subimg {
+    bottom: 5px;
+    right: 5px;
+    }
+    .dream_section {
+    padding: 60px 0px;
+    }
+    .demo_form_content {
+    box-shadow:unset;
+    padding: 0px 0px 45px 0px;
+    background-color: unset;
+    }
+    .input-fields textarea {
+    padding: 0px 0px 80px 10px;
+    }
+    .demo_section::before {
+    display: none;
+    }
+    .banner_content {
+    float: unset;
+    width: 100%;
+    text-align: center;
+    padding: 120px 0px;
+    }
+    .banner_content_left {
+    max-width: unset;
+    margin-left: unset;
+    text-align: center;
+    margin-right: 0px;
+    }
+    .contact_us::after {
+    width: 40%;
+    right: 0px;
+    top: 180px;
+    }
+    .subscribe_email:last-child {
+    display: block;
+    }
+    .subscribe_email {
+    width: 90%;
+    }
+    .subscribe_email:nth-child(2){
+        width: 9%;
+    }
+    .subscribe_email:first-child input {
+    max-width: unset;
+    }
+
+    .learnGrow_heading {
+    width: 100%;
+    max-width: unset;
+    padding: 30px 0px;
+    text-align: center;
+    }
+    .testimonial_heading {
+     max-width:unset; 
+    padding: 30px 0px;
+    width: 100%;
+    text-align: center;
+    }
+    .footer_content {
+    padding: 165px 20px 70px 20px;
+    }
+}
+
+/*768*/
+@media only screen and (max-width: 767px){   
+    .learnGrow_Content p:first-child::after, .testimonial_content p:first-child::after, .courses_content p:first-child::after, .contact_us p:first-child::after {
+    left: 390px;
+    }
+   .testimonial_content p:first-child::after, .courses_content p:first-child::after, .contact_us p:first-child::after {
+        left: 410px;
+    }
+    .faq_content_left p:first-child::after {
+    right: 30px;
+    }
+    .learnGrowImage::before {
+    width: 100%;
+    }
+    .contact_details {
+    width: 100%;
+    text-align: center;
+    }
+    .media_icons {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px;
+    }
+    .main_logo {
+    width: 70%;
+    padding: 5px 0px;
+    }
+    .nav_items {
+    width:20%;
+    }
+    .banner_content_left p:first-child::after {
+    right: 82px;
+    }
+    .banner_content {
+    float: unset;
+    width: 100%;
+    text-align: center;
+    padding: 120px 0px;
+    }   
+    .banner_section::after {
+    left: 0px;
+    }
+    .banner_section::before {
+    width: 10%;
+    top: -10px;
+    left: 10px;
+    }
+    .banner_counter {
+    margin-left: -240px;
+    }
+    .learnGrow {
+    padding: 130px 0px;
+    }   
+    .learnGrowImage_subimg {
+    bottom: -10px;
+    right: -20px;
+    }
+    .courses_card_container {
+    text-align: left;
+    padding: 0px 0px;
+    }
+    .fame_heading h4::before {
+        left: -40px;
+        background-size: 140px;
+        top: -15px;
+    }
+    .fame_card {
+    min-width: 238px;
+    padding: 30px 50px;
+    margin: 5px 0px 5px 35px;
+    }
+    .faq_section {
+    padding: 0px 20px;
+    }
+    .footer_logo {
+    width: 340px;
+    margin: 0 150px;
+    margin-top: -80px;
+    }
+      .footer_about_us {
+    width: 100%;
+    padding: 0px 0px 50px 0px;
+    }
+    .footer_about_us p {
+    max-width: 580px;
+    }
+    .footer_explore{
+    width:49%;
+    }
+    .footer_contact {
+    width: 50%;
+    }
+    .footer_contact_details a::before {
+    top: 0px;
+    }
+    .footer_subscribe_card {
+    max-width: 584px;
+    margin: 0 auto;
+    }
+    .footer_contact_details {
+    max-width: 300px;
+    }
+    .footer_content {
+    padding: 165px 20px 50px 20px;
+    }
+    .copyright_content p {
+    padding: 15px 65px;
+    }
+}
+/*650*/
+@media only screen and (max-width: 649px){
+    .learnGrow_Content p:first-child::after, .testimonial_content p:first-child::after, .courses_content p:first-child::after, .contact_us p:first-child::after {
+    left: 360px;
+    }
+    .testimonial_content p:first-child::after{
+        left: 380px;
+    }
+    .faq_content_left p:first-child::after {
+    right: 0px;
+    }
+    .contact_us p:first-child::after {
+    left: 380px;
+    }
+    .main_logo {
+    width: 65%;
+    }
+    .nav_items {
+    width: 23%;
+    }
+   
+    .contact_btn {
+    float: unset;
+    }
+    .banner_counter {
+    margin-left: -245px;
+    }
+    .banner_content {
+    padding: 80px 20px;
+    }
+    .banner_content_left p:first-child::after {
+    right: 30px;
+    }
+    .banner_section::after {
+    left: 0px;
+    height: 13% ;
+    bottom: 40px;
+    }
+    .learnGrowImage_subimg {
+    bottom: -25px;
+    right: -20px;
+    }
+    .learnGrowImage_counter {
+    left: -40px;
+    }
+    .testimonial_cards {
+     max-width: 352px; 
+    }
+    .learnGrow {
+    padding: 130px 0px 70px 0px;
+    }
+    .testimonial_content p {
+    margin-bottom: 0px;
+    }
+    .courses_card_container {
+    text-align: center;
+    }
+    .category_option {
+    padding: 0px 0px;
+    }
+   .flip-card {
+    margin: 50px 0px 0px 0px;
+    }
+    .flip-card:nth-child(4) {
+    margin-left: 0px;
+    }
+    .category_option {
+    float: unset;
+    text-align: center;
+    }
+    .fame_heading h4::before {
+        left: -140px;
+        width: 60%;
+    }
+    .fame_card {
+    min-width: 196px;
+    padding: 30px 40px;
+    }
+    .demo_section {
+    padding: 100px 0px 130px 0px;
+    }
+    .demo_section::before {
+    top: 50px;
+    }
+    .contact_us {
+    width: 100%;
+    margin: 0 auto;
+    }
+    .footer_logo {
+    width: 340px;
+    margin: 0 105px;
+    margin-top: -90px;
+    }
+    .footer_contact_details {
+    max-width: 245px;
+    }
+    .dream_content h3 {
+    font-size: 26px;
+    }
+    .dream_content p {
+    font-size: 22px;
+    line-height: 32px;
+    }
+    .contactus_details {
+    padding: 10px 100px;
+    }
+    .contact_us {
+    padding: 0px 0px;
+    }
+    .counter_content:first-child::before, .counter_content:last-child::before {
+    width: 50%;
+    background-size: 40px;
+    }
+    .copyright_content p {
+    padding: 15px 25px;
+    }
+}
+/*568*/
+
+@media only screen and (max-width: 567px){
+    .main_logo {
+    width: 60%;
+    }
+    .main_logo a {
+    width: 125px;
+    }
+    .nav_items {
+    width: 28%;
+    }
+    .contact_details h5, .contact_details .contact_number, .contact_details .email_id {
+    margin-right: 0px;
+    }
+    .contact_details .contact_number{
+        margin-right: 50px;
+    }
+    .email_id a::before {
+    left: -35px;
+    top: 7px;
+    }
+    .contact_number a::before {
+    left: -30px;
+    top: 0px;
+    }
+    .banner_counter {
+    margin-left: -233px;
+    }
+    .banner_content_left h1 {
+    font-size: 30px;
+    line-height: 40px;
+    }
+    .banner_section::after {
+    left: 0px;
+    height: 13%;
+    bottom: 50px;
+    }
+    
+    .contact_details h5, .contact_number a, .email_id a {
+    font-size: 16px;
+    }
+    .navlinks ul li {
+    padding: 25px 5px 40px 5px;
+    }
+    .banner_counter {
+    padding: 20px 10px;
+    }
+    .counter_content h3, .learnGrowImage_counter h3 {
+    font-size: 18px;
+    line-height: 28px;
+    }
+    .counter_content span, .learnGrowImage_counter span {
+    font-size: 24px;
+    top: 0px;
+    left: 25px;
+    }
+    .counter_content:last-child span {
+    font-size: 20px;
+    top: 0px;
+    }
+    .learnGrowImage_counter span {
+    font-size: 20px;
+    top: 26px;
+    left: 35px;
+    }
+    .learnGrowImage_subimg {
+    bottom: -40px;
+    right: -20px;
+    }
+    .learnGrow {
+    padding: 130px 0px 50px 0px;
+    }
+    .learnGrow_img::before {
+    width: 82%;
+    top: 0px;
+    right: -40px;
+    }
+    .learnGrow_heading h2, .categories_heading h2 {
+    font-size: 30px;
+    line-height: 40px;
+    }
+    .testimonial_heading h3, .courses_heading h3 {
+    font-size: 30px;
+    line-height: 40px;
+    }
+    .fame_heading h4 {
+    text-align: center;
+    font-size: 30px;
+    }
+    .fame_heading h4::before {
+    left: -145px;
+    width: 200px;
+    height: 60px;
+    top: -22px;
+    }
+    .fame_slider_container {
+    padding: 50px 66px;
+    }
+    .faq_image_container p {
+    padding: 30px 10px;
+    }
+    .faq h5::after {
+    right: 0px;
+    }
+    .footer_logo {
+    width: 392px;
+    margin: 0px 35px;
+    margin-top: -80px;
+    }
+    .footer_explore {
+    width: 48%;
+    }
+    .contactus_details h6 {
+    font-size: 16px;
+    } 
+    .dream_section {
+    padding: 20px 0px;
+    }  
+    .dream_content h3 {
+    font-size: 22px;
+    }
+    .dream_content p {
+    font-size: 20px;
+    }
+    .contact_btn a, .common_btn a, .submit_btn input {
+    font-size: 16px;
+    line-height: 26px;
+    }
+   .contact_details h5, .contact_number a, .email_id a {
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+    padding: 5px 0px;
+    }
+    .email_id::before {
+        left: -35px;
+        top: 5px;
+    }
+    .contact_number::before {
+        left: -30px;
+        top: 3px;
+    }
+    .panel p {
+    font-size: 16px;
+    line-height: 28px;
+    padding: 20px 10px;
+    }
+    .input-fields textarea {
+    padding: 0px 0px 60px 10px;
+    }
+    .media_icons {
+    width: 100%;
+    text-align: center;
+    padding: 0px 0px 10px 0px;
+    }
+    .subscribe_email {
+    width: 89%;
+    }
+     .banner_content_left p:first-child::after, .learnGrow_Content p:first-child::after, .categories_content p::after, .testimonial_content p:first-child::after, .courses_content p:first-child::after, .faq_content_left p:first-child::after, .contact_us p:first-child::after{
+        display: none;
+    }
+    .greyline::after {
+    display: none;
+    }
+}
+
+/*480*/
+@media only screen and (max-width: 479px){
+    .main_logo {
+    width: 53%;
+    padding: 0px 0px;
+    }
+    .nav_items {
+    width: 33%;
+    }
+    .navlinks ul li {
+    padding: 15px 10px;
+    }
+    .contact_btn {
+    padding: 15px 0px 0px 0px;
+    }
+    ul.slicknav_nav {
+    margin-top: 26px;
+    }
+    .banner_section::before {
+    display: none;
+    }
+    .banner_content_left p:first-child::after {
+    right: 80px;
+    }
+    .banner_content_left h1 {
+    font-size: 30px;
+    line-height: 42px;
+    }
+    .banner_content_left {
+    max-width: 375px;
+     margin-right: 0px; 
+    }
+    .counter_content:first-child::before, .counter_content:last-child::before {
+        width: 60px;
+        height: 75px;
+        left: -65px;
+        top: -9px;
+        background-size: 40px;
+    }
+    .counter_content {
+    margin-left: 69px;
+    }
+    .counter_content h3, .learnGrowImage_counter h3 {
+    font-size: 16px;
+    line-height: 26px;
+    }
+    .learnGrow_img {
+     width: 78%;
+    }
+    .learnGrowImage_counter {
+    height: 120px;
+    width: 120px;
+    top: 35px;
+    }
+    .learnGrowImage_counter span {
+    font-size: 18px;
+    top: 26px;
+    }
+    .learnGrowImage_subimg {
+    bottom: -10px;
+    right: -20px;
+    width: 120px;
+    height: 120px;
+    }
+    .learnGrow_Content p:first-child::after {
+    left: 145px;
+    }
+    .learnGrow_heading h2, .categories_heading h2 {
+    font-size: 24px;
+    line-height: 34px;
+    }
+    .learnGrow_heading h2, .categories_heading h2 {
+    font-size: 24px;
+    line-height: 34px;
+    }
+    .learnGrow_heading h2, .categories_heading h2 {
+    font-size: 24px;
+    line-height: 34px;
+    }
+    .testimonial_cards{
+        max-width:352px;
+    }
+    .testimonial_heading h3, .courses_heading h3 {
+    font-size: 24px;
+    line-height: 34px;
+    }
+    .courses{
+    padding: 0px 0px;
+    }
+    .categories_scroller {
+    padding: 50px 40px;
+    }
+    .fame_section {
+    padding: 50px 0px;
+    }
+   .fame_heading h4::before {
+    display: none;
+    }
+    .fame_heading h4 {
+    text-align: center;
+    font-size: 24px;
+    margin: 0px;
+    }
+    .fame_card{
+        min-width: 233px;
+    }
+    .fame_scroller .slick-prev, .fame_scroller .slick-next {
+    width: 30px;
+    height: 30px;
+    }
+    .faq_content_left p:first-child::after {
+    right: 15px;
+    }
+    .demo_form_heading h4 {
+    font-size: 20px;
+    line-height: 30px;
+    }
+    .demo_form_heading p {
+    font-size: 16px;
+    line-height: 26px;
+    }
+    .contact_us p:first-child::after {
+    left: 180px;
+    }
+    .faq_content_left h4, .contact_us h4 {
+    font-size: 24px;
+    }
+    .dream_content h3 {
+    font-size: 20px;
+    }
+    .dream_content p {
+    font-size: 20px;
+    line-height: 30px;
+    }
+    .footer_logo {
+    padding: 80px 0px 15px 0px
+    }
+    .footer_logo {
+    width: 340px;
+    margin: 0px 30px;
+    margin-top: -80px;
+    }
+    .banner_section::after {
+    display: none;
+    }
+
+}   
+@media only screen and (max-width: 413px){
+    .main_logo {
+    width: 58%;
+    }
+    .nav_items {
+    width: 38%;
+    }
+    .slicknav_menu {
+    padding: 0px 0px;
+    }
+    .slicknav_nav a {
+    padding: 3px 10px;
+    font-size: 14px;
+    line-height: 22px;
+    width: 66%;
+    }
+    .submenu li:nth-child(1)::after, .submenu li:nth-child(2)::after, .submenu li:nth-child(3)::after {
+    width: 100px;
+    left: 45px;
+    }
+    .submenu li {
+    width: 214px;
+    margin-left: 5px;
+    }
+    .contact_details h5, .contact_number a, .email_id a {
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+    padding: 5px 0px;
+    }
+     .contact_details .contact_number {
+    padding: 0px;
+    width: 49%;
+    margin-right: 0px;
+     }
+    .contact_number::before {
+    left: -25px;
+    top: 3px;
+    }
+    .email_id::before {
+    left: -30px;
+    top: 3px;
+    }
+    .navlinks ul li a {
+    font-size: 16px;
+    }
+    .navlinks ul li {
+    padding: 10px 5px 10px 5px;
+    }
+    .banner_content_left h1 {
+    font-size: 26px;
+    line-height: 36px;
+    }
+    .banner_content {
+    padding: 80px 20px 180px 20px;
+    }
+    .banner_content_left p:first-child::after {
+    right: 60px;
+    }
+    .contact_btn a, .common_btn a, .submit_btn input {
+    font-size: 16px;
+    line-height: 26px;
+    padding: 7px 20px;
+    }
+    .contact_btn a{
+    font-size: 14px;
+    line-height: 24px;
+    padding: 5px 5px;
+    }
+    .banner_section::after {
+    display: none;
+    }
+    .counter_content {
+    width: 100%;
+    float: unset;
+    }
+    .banner_counter {
+    padding: 20px 10px;
+    min-width: 428px;
+    border-radius: 0px;
+    }
+    .counter_content {
+    text-align: center;
+    margin-left: 0px;
+    }
+    .counter_content span, .learnGrowImage_counter span {
+    font-size: 24px;
+    top: 0px;
+    left: 225px;
+    }
+    .counter_content:first-child::before, .counter_content:last-child::before {
+    width:60px;
+    height: 60px;
+    left: 65px;
+    }
+    .counter_content:first-child{
+    margin-bottom: 25px;
+    }
+     .learnGrowImage_counter span {
+    font-size: 20px;
+    top: 24px;
+    left: 33px;
+    }
+    .scroll_card {
+    width: 280px;
+    }
+    .slick-next, .slick-prev {
+    width: 30px;
+    height: 30px;
+    }
+    .learnGrow_heading h2, .categories_heading h2 {
+    font-size: 22px;
+    line-height: 32px;
+    }
+    .testimonial_heading h3, .courses_heading h3 {
+    font-size: 22px;
+    line-height: 32px;
+    }
+    .testimonial_content p:first-child::after {
+    left: 175px;
+    }
+    select {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 5px 10px 5px;
+    }
+    .fame_heading h4 {
+    font-size: 22px;
+    }
+    .fame_card {
+    min-width: 195px;
+    padding: 30px 30px;
+    }
+    .faq_content_left h4, .contact_us h4 {
+    font-size: 22px;
+    }
+    .banner_content_left p:first-child, .learnGrow_Content p:first-child, .categories_content p, .testimonial_content p:first-child, .courses_content p:first-child, .faq_content_left p:first-child, .contact_us p:first-child {
+    font-size: 16px;
+    }
+    .faq_image_container p {
+    font-size: 16px;
+    padding: 15px 10px;
+    }
+    .faq h5 {
+    font-size: 16px;
+    line-height: 26px;
+    }
+    .faq_content_left h4, .contact_us h4 {
+    font-size: 20px;
+    }
+    .contactus_details p {
+    font-size: 16px;
+    }
+    .demo_section {
+    padding: 50px 0px;
+    }
+    .dream_content h3 {
+    font-size: 20px;
+    }
+    .dream_content p {
+    font-size: 18px;
+    line-height: 28px;
+    }
+    .footer_logo {
+    margin: 0px 18px;
+    margin-top: -80px;
+    }
+    .footer_explore {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .footer_explore {
+    width: 100%;
+    margin-top: 20px;
+    }
+    .footer_contact {
+    width: 100%;
+    margin-top: 20px;
+    }
+    .footer_content {
+    padding: 120px 20px 50px 20px;
+    }
+    .contactus_details h6 {
+    font-size: 16px;
+    }
+    .learnGrowImage::before {
+    width: 100%;
+    }   
+    .input-fields input::placeholder, .input-fields select, .input-fields textarea::placeholder, .subscribe_email:first-child input::placeholder {
+    font-size: 15px;
+    }
+    .contact_us {
+    padding: 0px 0px 80px 0px;
+    }
+    .scrollcard_img::before {
+    left: 100px;
+    }
+    .contact_details .email_id {
+    padding: 0px 0px 0px 0px;
+    width: 49%;
+    }
+    .contact_number a::before {
+    left: 0px;
+    }
+    .email_id a::before {
+    left: -25px;
+    }
+    .fame_section {
+        padding: 50px 0px;
+    }
+    .counter_content:first-child {
+    margin-left: 0;
+    }
+    .copyright_content p {
+    padding: 15px 10px;
+    }
+ 
+}
+@media only screen and (max-width: 389px){
+    .main_logo a {
+    width: 110px;
+    }
+   .scrollcard_img::before {
+    left: 100px;
+    }
+    .banner_content_left p:first-child::after {
+    right: 45px;
+    }
+   .banner_counter {
+    min-width: 420px;
+    }
+    .fame_section {
+    padding: 50px 0px;
+    }
+    .demo_form_content {
+    padding: 0px 0px 45px 0px
+    }
+}
+@media only screen and (max-width: 374px){
+        .main_logo a {
+           width: 90px;
+        }
+        .main_logo {
+        width: 50%;
+        }
+        .contact_details .contact_number, .contact_details .email_id  {
+         margin-right: 0px; 
+        width: 100%;
+        text-align: center;
+        }
+        .email_id a::before {
+        left: 30px;
+        }
+        .contact_number a::before {
+        left: 50px;
+        }
+        .contact_btn a{
+        margin: 10px 0px;
+        }
+        .contact_btn {
+        padding: 5px 0px 0px 0px;
+        }
+        .banner_counter {
+        min-width: 392px;
+        }
+        .banner_content_left p:first-child::after {
+        right: 0px;
+        }
+        .banner_content_left h1 {
+        font-size: 20px;
+        line-height: 30px;
+        }
+        .counter_content{
+        margin-left: 85px;
+        }
+        .counter_content:first-child {
+        margin-left: 85px;
+        }
+        .counter_content:first-child::before, .counter_content:last-child::before {
+        left: 10px;
+        }
+        .counter_content span, .learnGrowImage_counter span {
+        left: 165px;
+        }
+        .learnGrow_heading h2, .categories_heading h2 {
+        font-size: 18px;
+        line-height: 32px;
+        }
+        .testimonial_heading h3, .courses_heading h3 {
+        font-size: 18px;
+        line-height: 28px;
+        }
+        .learnGrowImage_counter {
+        height: 100px;
+        width: 100px;
+        top: 32px;
+        padding: 7px 0px;
+        }
+       .counter_content {
+        width: 79%;
+        }
+        .learnGrow_img::before {
+        display: none;
+        }
+
+        .learnGrowImage_counter p {
+        font-size: 14px;
+        line-height: 24px;
+         }
+         .learnGrowImage_counter span {
+        left: 32px;
+        top: 7px;
+        }
+        .learnGrowImage_subimg {
+        width: 100px;
+        height: 100px;
+        bottom: -10px;
+        }
+        .learnGrow_img::after {
+        display: none;
+        }
+        .scrollcard_img::before {
+        left: 65px;
+        }
+        .testimonial_cards {
+        max-width: 295px;
+        }
+        .contactus_details p {
+        width: 172px;
+        }
+        .courses_card .course_price {
+        bottom: 150px;
+        }
+       .flip-card {
+        width: 295px;
+        margin-bottom: 10px;
+        }
+        .flip-card:nth-child(4) {
+        margin-top:50px;
+        }
+        .flip-card-inner {
+        width: 295px;
+        }
+        .about_coursecard .course_rating {
+        margin-left: 107px;
+        }
+        .about_coursecard h5::after, .coursecard3 h5::after {
+        bottom: 3px;
+        }
+        .coursecard3 .course_rating::before {
+        width: 60px;
+        height: 60px;
+        right: 0px;
+        top: -5px;
+        }
+        .scroll_card {
+        width: 200px;
+        }
+        .fame_slider_container {
+        padding: 50px 35px;
+        }
+        .fame_card {
+        min-width: 205px;
+        padding: 30px 10px;
+        }
+        .fame_card_content p span::after {
+        left: 35px;
+        }
+        .fame_card {
+        min-width: 143px;
+        padding: 30px 0px;
+        }
+        .fame_card_content h5,.fame_card_content p{
+        font-size: 14px;
+        }
+
+        .footer_logo {
+        width: 270px;
+        }
+        .faq_content_left p span{
+            display: none;
+        }
+        .contactus_details a::before {
+            content: '';
+            position: absolute;
+            background: url(../images/Address.svg) no-repeat center #0D4B84;
+            width: 35px;
+            height: 35px;
+            left: -75px;
+            top: 15px;
+        }
+        .copyright_content p {
+        padding: 15px 15px;
+        }
+}    
+
